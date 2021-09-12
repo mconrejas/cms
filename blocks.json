@@ -1,0 +1,156 @@
+{
+    "blocks": [
+        {
+            "header-form": {
+                "fields": [
+                    {
+                        "label": "Header Text",
+                        "type": "textarea",
+                        "name": "header-text",
+                        "placeholder": "Header Text"
+                    },
+                    {
+                        "label": "Form Text",
+                        "type": "textarea",
+                        "name": "form-text",
+                        "placeholder": "Form text"
+                    },
+                    {
+                        "label": "Terms and Condition",
+                        "type": "textarea",
+                        "name": "terms",
+                        "placeholder": "Terms and Condition"
+                    }
+                ]
+            },
+            "full-width-block": {
+                "fields": [
+                    {
+                        "label": "Content Text",
+                        "type": "textarea",
+                        "name": "content",
+                        "placeholder": "Content Text"
+                    }
+                ]
+            },
+            "two-column-block": {
+                "fields": [
+                    {
+                        "label": "Column 1",
+                        "type": "textarea",
+                        "name": "column_1",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 2",
+                        "type": "textarea",
+                        "name": "column_2",
+                        "placeholder": ""
+                    }
+                ]
+            },
+            "three-column-block": {
+                "fields": [
+                    {
+                        "label": "Column 1",
+                        "type": "textarea",
+                        "name": "column_1",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 2",
+                        "type": "textarea",
+                        "name": "column_2",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 3",
+                        "type": "textarea",
+                        "name": "column_3",
+                        "placeholder": ""
+                    }
+                ]
+            },
+            "four-column-block": {
+                "fields": [
+                    {
+                        "label": "Column 1",
+                        "type": "textarea",
+                        "name": "column_1",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 2",
+                        "type": "textarea",
+                        "name": "column_2",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 3",
+                        "type": "textarea",
+                        "name": "column_3",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 4",
+                        "type": "textarea",
+                        "name": "column_4",
+                        "placeholder": ""
+                    }
+                ]
+            },
+            "six-column-block": {
+                "fields": [
+                    {
+                        "label": "Column 1",
+                        "type": "textarea",
+                        "name": "column_1",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 2",
+                        "type": "textarea",
+                        "name": "column_2",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 3",
+                        "type": "textarea",
+                        "name": "column_3",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 4",
+                        "type": "textarea",
+                        "name": "column_4",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 5",
+                        "type": "textarea",
+                        "name": "column_5",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Column 6",
+                        "type": "textarea",
+                        "name": "column_6",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Below Column 1",
+                        "type": "textarea",
+                        "name": "below_column_1",
+                        "placeholder": ""
+                    },
+                    {
+                        "label": "Below Column 2",
+                        "type": "textarea",
+                        "name": "below_column_2",
+                        "placeholder": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
